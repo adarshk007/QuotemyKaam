@@ -1,6 +1,6 @@
 /*
 @Global arrays to store Information
- my_url  : amzon url Links
+ my_url  : amazon url Links
  artist_thumbnail : pics of artist
 */
 
