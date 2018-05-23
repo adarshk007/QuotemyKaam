@@ -1,0 +1,25 @@
+Your task would be:
+
+1. To create a simple page that loads a list of albums by making an AJAX call to an API. Refer to the prototype video to check the design and functionality.
+
+API - https://rallycoding.herokuapp.com/api/music_albums
+Protoype Video - https://drive.google.com/file/d/1z2iY3W3VIh9yFNpMU8vNA6E1nYG2XnUW/view?usp=sharing
+
+2. Each album has three functions 
+	a. Buy - On clicking, the Confirm button appears and Buy and Hide buttons get hidden.
+	b. Hide - Hides the album on click.
+	c. Confirm - On clicking confirm, redirect to amazon purchase page. You can find the redirection url in API response. Study it thoroughly.
+
+3. Use your own HTML, CSS, and Javascript. No plugins can be used.
+
+4. Task is simple. Your code would be evaluated on:
+	a. Readability
+	b. Simplicity
+	c. Modularity
+
+5. Hints and basic code flow: 
+	a. Make an AJAX request
+	b. When response arrives, prepare the html and render it on screen.
+	c. Attach the required events on possible actions (click of buttons like Buy and Remove)
+
+Good Luck!
