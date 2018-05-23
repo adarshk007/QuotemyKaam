@@ -17,21 +17,21 @@
 
 	@media  screen and (max-width: 300px) 
 	{
-	.btn{min-width:110px;}
+	.btn{min-width:114px; margin: 0 auto;}
 	.col-sm-2
 	{
 		min-width:0px;
 		margin-top: 0px;
 	}
 	}
-	@media  screen and (min-width: 301px) and (max-width: 311px)
+	@media  screen and (min-width: 301px) and (max-width: 315px)
 	{
-	.btn{min-width:110px;
+	.btn{min-width:114px;
 		margin: 0 auto;}
 	}
 
 
-	@media  screen and (min-width: 312px) and (max-width: 355px)
+	@media  screen and (min-width: 316px) and (max-width: 355px)
 	{
 	.btn{min-width:120px; margin: 0 auto;}
 	}
@@ -46,7 +46,7 @@
 	{
 	.btn{min-width:200px; margin: 0  auto;}
 	}
-	
+
 	@media  screen and (min-width: 601px) and (max-width: 899px)
 	{
 	.btn{min-width:240px; margin: 0 auto;}
