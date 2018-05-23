@@ -25,8 +25,6 @@ api_s.onload = function() {
  	 }
  	 i=i+1;
  	}
- 	document.getElementById("artist").src=artist_thumbnail[0];
- 	document.getElementById("name").innerHTML="Taylor Swift";
 }; 
 api_s.send();
 
